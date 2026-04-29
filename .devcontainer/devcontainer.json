@@ -1,8 +1,8 @@
 {
   "image": "ghcr.io/rocker-org/r-ver:4.6",
-  "features": {
-    "ghcr.io/rocker-org/devcontainer-features/r-packages:1": {
-      "packages": "pkgdown, testthat, lavaan"
-    },
-  }
+  //"features": {
+  //  "ghcr.io/rocker-org/devcontainer-features/r-packages:1": {
+  //    "packages": "pkgdown, testthat, lavaan"
+  //  },
+  //}
 }
