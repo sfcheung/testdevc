@@ -1,0 +1,10 @@
+^LICENSE\.md$
+^\.lintr$
+^\.vscode$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^\.github$
+^\.vscode$
+^data-raw$
+^\.devcontainer$
