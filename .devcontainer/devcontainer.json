@@ -2,7 +2,7 @@
   "image": "ghcr.io/rocker-org/devcontainer/r-ver:4",
   "features": {
     "ghcr.io/rocker-org/devcontainer-features/r-packages:1": {
-      "packages": "pkgdown, testthat, lavaan, r-lib/pak"
+      "packages": "pkgdown, testthat, r-lib/pak"
     },
     "ghcr.io/rocker-org/devcontainer-features/quarto-cli:1": {
       "installChromium": true
@@ -12,7 +12,9 @@
     },
     "ghcr.io/rocker-org/devcontainer-features/pandoc:latest": {
       "version": "2.17"
-    }
+    },
+    "ghcr.io/rocker-org/devcontainer-features/r-rig:1": {},
+    "ghcr.io/rocker-org/devcontainer-features/r-dependent-packages:latest": {}    
   },
   // "postCreateCommand": "Rscript -e 'remotes::install_deps(dependencies = TRUE)'"
 }
