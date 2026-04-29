@@ -14,7 +14,7 @@
       "version": "2.17"
     },
   //  "ghcr.io/rocker-org/devcontainer-features/r-rig:1": {},
-    "ghcr.io/rocker-org/devcontainer-features/r-dependent-packages:latest": {}    
+  //  "ghcr.io/rocker-org/devcontainer-features/r-dependent-packages:latest": {}    
   },
   // "postCreateCommand": "Rscript -e 'remotes::install_deps(dependencies = TRUE)'"
 }
